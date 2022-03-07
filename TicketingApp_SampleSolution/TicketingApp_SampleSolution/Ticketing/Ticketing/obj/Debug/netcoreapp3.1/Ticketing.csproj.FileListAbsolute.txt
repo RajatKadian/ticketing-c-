@@ -1,0 +1,15 @@
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\bin\Debug\netcoreapp3.1\Ticketing.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\bin\Debug\netcoreapp3.1\Ticketing.deps.json
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\bin\Debug\netcoreapp3.1\Ticketing.runtimeconfig.json
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\bin\Debug\netcoreapp3.1\Ticketing.runtimeconfig.dev.json
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\bin\Debug\netcoreapp3.1\Ticketing.dll
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\bin\Debug\netcoreapp3.1\Ticketing.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\obj\Debug\netcoreapp3.1\Ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\obj\Debug\netcoreapp3.1\Ticketing.AssemblyInfoInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\obj\Debug\netcoreapp3.1\Ticketing.AssemblyInfo.cs
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\obj\Debug\netcoreapp3.1\Ticketing.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\obj\Debug\netcoreapp3.1\Ticketing.dll
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\obj\Debug\netcoreapp3.1\Ticketing.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2021\Tu_1175_1\Lec\Lec7\TicketingApp_SampleSolution\Ticketing\Ticketing\obj\Debug\netcoreapp3.1\Ticketing.genruntimeconfig.cache
+D:\TicketingApp_SampleSolution\TicketingApp_SampleSolution\Ticketing\Ticketing\obj\Debug\netcoreapp3.1\Ticketing.dll
+D:\TicketingApp_SampleSolution\TicketingApp_SampleSolution\Ticketing\Ticketing\obj\Debug\netcoreapp3.1\Ticketing.pdb
